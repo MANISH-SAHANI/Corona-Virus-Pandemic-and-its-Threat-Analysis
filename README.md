@@ -97,8 +97,8 @@ Perform the following activities on the dataset using Python Programming Languag
 ```
 
 ```
-      4) Develop a simple User Interface including all the queries 
-         and processes above to make it a functional system.
+      4) Develop a simple User Interface including all the queries and processes above 
+         to make it a functional system.
 ```
 
 ## Here's the solution : 
