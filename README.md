@@ -89,15 +89,16 @@ Perform the following activities on the dataset using Python Programming Languag
 
 ```
       3) Use Data Analysis and mining techniques to develop solutions to queries :
-                         a. Which is the highest affected area and what  is the number. Group from the model, the 
-                            second highest affected area along with number.
+                         a. Which is the highest affected area and what  is the number. 
+                           Group from the model, the second highest affected area along with number.
                          b. What is the mortality Vs. recovery ratio.
                          c. Is there any general tendency towards particular age, gender or random?
                          d. What is the mortality rate among different age groups?
 ```
 
 ```
-      4) Develop a simple User Interface including all the queries and processes above to make it a functional system.
+      4) Develop a simple User Interface including all the queries 
+         and processes above to make it a functional system.
 ```
 
 ## Here's the solution : 
