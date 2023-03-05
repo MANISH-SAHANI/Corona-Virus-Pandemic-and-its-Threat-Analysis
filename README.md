@@ -28,7 +28,7 @@ covid_19_data.csv  &&  covid19_line_list_data_modified.
 8. Recovered
 ```
 
-[ All the fields are self explanatory from the name]
+[ All the fields are self explanatory from the name ]
 
 
 #### The fields of covid19_line_list_data_modified are as follows:
@@ -71,7 +71,7 @@ covid_19_data.csv  &&  covid19_line_list_data_modified.
 18. symptom
 ```
 
-[ All the fields are self explanatory from the name]
+[ All the fields are self explanatory from the name ]
 
 
 
