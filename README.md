@@ -10,6 +10,7 @@ covid_19_data.csv  &&  covid19_line_list_data_modified.
 
 #### The fields of covid_19_data.csv are as follows:
 
+```
 1. SNo 
 
 2. ObservationDate 
@@ -25,13 +26,14 @@ covid_19_data.csv  &&  covid19_line_list_data_modified.
 7. Deaths 
 
 8. Recovered
-
+```
 
 [ All the fields are self explanatory from the name]
 
 
 #### The fields of covid19_line_list_data_modified are as follows:
 
+```
 1. id
 
 2. case_in_country
@@ -67,7 +69,7 @@ covid_19_data.csv  &&  covid19_line_list_data_modified.
 17. recovered  
 
 18. symptom
-
+```
 
 [ All the fields are self explanatory from the name]
 
